@@ -7,9 +7,8 @@ Web Developer and Full-Stack Engineer
 I'm a developer / engineer / WordPress Consultant / all around creative problem problem solver.
 
 *   🌍  I'm based in Brooklyn, NY
-*   🖥️  See my portfolio at [my website](http://justy.dev)
+*   🖥️  See my portfolio at [my website](https://justy.dev)
 *   ✉️  You can contact me at [devjusty@gmail.com](mailto:devjusty@gmail.com)
-*   🧠  I'm learning React and TypeScript
 *   🤝  I'm open to collaborating on Open Source and Paid Projects
 
 ### Skills
